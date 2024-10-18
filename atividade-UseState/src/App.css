@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.botaoCoracao{
+  margin: 200px;
+  display: flex;  
+  align-items: left;
+  justify-content: left;
+}
+button{
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  background-color: cadetblue;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: center;
+}
